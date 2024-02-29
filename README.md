@@ -1,6 +1,7 @@
 # README
 DEPLOYED ON RENDER
 https://project-deploy-tofs.onrender.com/posts
+![image](https://github.com/aayushsatle22/project_deploy/assets/122026657/82894f56-1b8b-4b7e-a98d-df2dfedf0fbb)
 
 
 
